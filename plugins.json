@@ -1165,7 +1165,7 @@
 	},
 	{
 		"name": "Fast Async WorldEdit",
-		"desc": "Optimizes WorldEdit.",
+,		"desc": "Optimizes WorldEdit.",
 		"jarName": "FastAsyncWorldEdit.jar",
 		"configName": "~",
 		"freePlugin":true
@@ -1175,7 +1175,7 @@
 		"desc": "Fixes a 1.12 and 1.12.1 duplication glitch\nalong with some other exploits",
 		"jarName": "ExploitPatcher.jar",
 		"configName": "ExploitPatcher",
-		"freePlugin":true
+ 		"freePlugin":true
 	},
 	{
 		"name": "CustomOreGen",
@@ -1190,7 +1190,7 @@
 		"configName": "CHIR",
 		"freePlugin":true
 	},
-	{
+:	{
 		"name": "StackMob",
 		"desc": "An efficient plugin that\nenhances server performance\nby 'stacking' entities.",
 		"jarName": "StackMob.jar",
@@ -1226,6 +1226,12 @@
         "configName": "SimpleSit",
         "freePlugin": true
     },
+	{
+		"name": "Kits",
+		"desc": "adds kits to the game",
+		"jarName": "Kits.jar",
+		"configName": "kits"
+	}
     {
         "name": "Chat Feelings",
         "desc": "Emote in new, fun ways!\n(e.g. /dab, /kiss)",
